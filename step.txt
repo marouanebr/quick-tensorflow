@@ -1,0 +1,15 @@
+Part-1: Basics of TensorFlow
+	(i) Graph in TensorFlow 
+	(ii) TensorFlow Session
+	(iii) Tensors in TensorFlow
+		a) Constants
+		b) Variables
+		c) Placeholders 		
+	iv) Device in TensorFlow
+
+Part-2: Tensorflow tutorial with simple example
+	a) Creating training data
+	b) Placeholders
+	c) Modeling
+  	d) Training
+	e) Exercise
